@@ -8,5 +8,5 @@ Build-Depends: debhelper (>= 7.0.50~)
 Package: dart-on-server
 Section: devel
 Architecture: all
-Depends: wget, unzip
+Depends: wget, unzip, git
 Description: Dart on server
