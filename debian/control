@@ -1,0 +1,12 @@
+Source: dart-on-server
+Section: devel
+Priority: optional
+Maintainer: Christophe Hurpeau <christophe@hurpeau.com>
+Standards-Version: 1.0
+Build-Depends: debhelper (>= 7.0.50~)
+
+Package: dart-on-server
+Section: devel
+Architecture: all
+Depends: wget, unzip
+Description: Dart on server
