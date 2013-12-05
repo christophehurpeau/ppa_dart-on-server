@@ -1,0 +1,29 @@
+dart-on-server (0.5~precise) precise; urgency=low
+
+  * 0.5
+
+ -- Christophe Hurpeau <christophe@hurpeau.com>  Thu, 05 Dec 2013 23:50:51 +0100
+
+dart-on-server (0.4~precise) precise; urgency=medium
+
+  * 0.4
+
+ -- Christophe Hurpeau <christophe@hurpeau.com>  Tue, 03 Dec 2013 23:44:17 +0100
+
+dart-on-server (0.3~precise) precise; urgency=medium
+
+  * install file
+
+ -- Christophe Hurpeau <christophe@hurpeau.com>  Wed, 27 Nov 2013 00:11:54 +0100
+
+dart-on-server (0.2~saucy) saucy; urgency=medium
+
+  * sh files
+
+ -- Christophe Hurpeau <christophe@hurpeau.com>  Tue, 26 Nov 2013 23:53:32 +0100
+
+dart-on-server (0.1~saucy) saucy; urgency=medium
+
+  * first package
+
+ -- Christophe Hurpeau <christophe@hurpeau.com>  Tue, 26 Nov 2013 23:52:50 +0100
