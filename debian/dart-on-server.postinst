@@ -38,9 +38,10 @@ case "$1" in
 
 
 		cd /tmp/
-		wget "http://storage.googleapis.com/dart-archive/channels/stable/release/latest/editor/darteditor-linux-$arch.zip"
-		rm -Rf /usr/lib/dart/
-		unzip -o "darteditor-linux-$arch.zip" -d /usr/lib
+		wget "http://storage.googleapis.com/dart-archive/channels/stable/release/latest/sdk/dartsdk-linux-$arch-release.zip"
+		rm -Rf /usr/lib/dart-sdk/
+		unzip -o "dartsdk-linux-$arch-release.zip" -d /usr/lib
+		chmod -R 755 /usr/lib/dart-sdk/
 
 	;;
 

@@ -1,3 +1,21 @@
+dart-on-server (0.6.2~precise) precise; urgency=medium
+
+  * error zip filename
+
+ -- Christophe Hurpeau <christophe@hurpeau.com>  Sat, 07 Dec 2013 01:42:11 +0100
+
+dart-on-server (0.6.1~precise) precise; urgency=high
+
+  * error dart sdk link
+
+ -- Christophe Hurpeau <christophe@hurpeau.com>  Fri, 06 Dec 2013 23:09:18 +0100
+
+dart-on-server (0.6~precise) precise; urgency=medium
+
+  * dart sdk instead of dart editor
+
+ -- Christophe Hurpeau <christophe@hurpeau.com>  Fri, 06 Dec 2013 22:50:13 +0100
+
 dart-on-server (0.5~precise) precise; urgency=low
 
   * 0.5
